@@ -1,0 +1,5 @@
+{
+  "name": "KitchenMate",
+  "description": "An intelligent cooking companion that helps you decide what to cook based on your ingredients, mood, and dietary preferences.",
+  "requestFramePermissions": []
+}
